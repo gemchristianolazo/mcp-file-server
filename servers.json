@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "file-server": {
+      "type": "streamable-http",
+      "url": "http://127.0.0.1:8000/mcp",
+      "headers": {
+        "Authorization": "Bearer DOHZ7KQxUsh5EnOMTr3kQGm48JPkNbbPlfze-nU3MwA"
+      }
+    }
+  }
+}

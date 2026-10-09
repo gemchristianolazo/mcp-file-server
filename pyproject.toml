@@ -1,0 +1,23 @@
+[project]
+name = "mcp-file-server"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "gemchristianolazo", email = "gemchristianlazo@gmail.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "gitpython>=3.2.0",
+    "httpx>=0.28.1",
+    "mcp[cli]>=2.3.0",
+    "openai>=3.26.1",
+    "python-dotenv>=1.2.4",
+]
+
+[project.scripts]
+mcp-file-server = "mcp_file_server:main"
+
+[build-system]
+requires = ["uv_build>=0.12.24,<0.13.0"]
+build-backend = "uv_build"

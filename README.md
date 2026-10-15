@@ -1,5 +1,6 @@
 ﻿# mcp-file-server
-
+ 
+[![M8ven Verified](https://m8ven.ai/badge/mcp/gemchristianolazo-mcp-file-server-1y8js5?variant=verified&v=e7564accb10b21778919e3553b4a6c41)](https://m8ven.ai/mcp/gemchristianolazo-mcp-file-server-1y8js5?s=readme)
 [![Python](https://img.shields.io/badge/Python-3.12-blue)](https://www.python.org/)
 [![MCP](https://img.shields.io/badge/MCP-2.3.0-orange)](https://modelcontextprotocol.io/)
 [![Transport](https://img.shields.io/badge/Transport-Streamable%20HTTP-green)](https://modelcontextprotocol.io/specification/)
